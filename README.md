@@ -1,6 +1,6 @@
 # Sorting_Visualizer
 
-A web application showcasing the inner workings of sorting algorithms.
+The Sorting Visualizer project is an interactive web application designed to visually demonstrate various sorting algorithms in action. It provides users with a dynamic and engaging platform to explore different sorting techniques, compare their performance, and gain insights into their functionality and efficiency.# Sorting-Visualizer The Sorting Visualizer project is an interactive web application designed to visually demonstrate various sorting algorithms in action. By animating the sorting process step by step, users can gain a deeper understanding of how different algorithms work and compare their performance in real-time.
 
 Implemented algorithms:
 1) Bubble sort
